@@ -136,7 +136,7 @@ const FeaturedProjects = () => {
                             A macOS-inspired scroll story of the Apple brand &mdash; from garage to global icon.
                         </p>
                         <a
-                            href="GENESIS_URL"
+                            href="https://genesis-story.vercel.app/"
                             className="font-mono mt-8 inline-flex items-center gap-3 border-b border-blue-400/60 pb-2 text-xs font-medium uppercase tracking-[0.14em] text-blue-400 transition-colors hover:border-blue-300 hover:text-blue-300"
                         >
                             VIEW GENESIS
